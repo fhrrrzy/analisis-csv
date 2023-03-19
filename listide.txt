@@ -1,0 +1,8 @@
+- set abcd nilai lulus tidak lulus
+- mencari mahasiswa dengan nilai yang meningkat setiap semester
+- nilai tertinggi di tiap smt
+dan terendah
+- rata rata nilai tiap semester
+- perkembangan nilai AB1
+- min max ab 1, nest semester, worst semester
+- rata rata total nilai, lalu cari yang tertinggi
